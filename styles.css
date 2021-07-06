@@ -6,8 +6,12 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
+    background: #EAD7D7;
 }
 
+h1 {
+    margin-top: 40px;
+}
 .app {
     display: flex;
     height: 100vh;
